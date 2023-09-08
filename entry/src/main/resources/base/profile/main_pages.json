@@ -1,7 +1,8 @@
 {
   "src": [
-    "pages/Index2",
+    "pages/Index",
     "pages/Ser",
-    "pages/Carme"
+    "pages/Carme",
+    "pages/Network"
   ]
 }

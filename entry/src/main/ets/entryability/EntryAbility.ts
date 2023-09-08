@@ -1,7 +1,6 @@
 import UIAbility from '@ohos.app.ability.UIAbility';
 import hilog from '@ohos.hilog';
 import window from '@ohos.window';
-// import  window from '@ohos.window';
 
 import abilityAccessCtrl from '@ohos.abilityAccessCtrl';
 let atManager = abilityAccessCtrl.createAtManager();

@@ -5,9 +5,9 @@
         "name": "default",
         "material": {
           "certpath": "C:\\Users\\admin\\.ohos\\config\\openharmony\\auto_ohos_default_MyApplication_com.example.myapplication.cer",
-          "storePassword": "0000001ADCE63973015CAF7429BC5869DA222894CF1AC4DD7EC109E1B1A0F7CE62F2D54EB2EECFB995E1",
+          "storePassword": "0000001B261485DDC3E85CA8533636DB36FE83B8B9B2E60D672433A031CD481DF19EAB1C97A433C8EF3BDB",
           "keyAlias": "debugKey",
-          "keyPassword": "0000001A9BDAEB4BDBACCD2A582ACB2E854EE8A50DC413CF7BC3E250655D55C9FCFFD8B5E47D94AD3C41",
+          "keyPassword": "0000001B43D662132ECD01F8666217D25DC321480CEC71560800CBA098A194D1699CA8B297FE3BA2AE1B16",
           "profile": "C:\\Users\\admin\\.ohos\\config\\openharmony\\auto_ohos_default_MyApplication_com.example.myapplication.p7b",
           "signAlg": "SHA256withECDSA",
           "storeFile": "C:\\Users\\admin\\.ohos\\config\\openharmony\\auto_ohos_default_MyApplication_com.example.myapplication.p12"
